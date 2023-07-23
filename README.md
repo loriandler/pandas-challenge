@@ -33,3 +33,4 @@ I used python code and pandas within visual studio code to create a district sum
  - Scores by School Size
  - Scores by School Type
 
+**credits** Credits: Thank you to AskBCS Learning Assistant, for helping me with a few of the bugs I encountered. Thank you to Hunter Hollis, instructor, and TA's: Randy & Sam for all of their teaching and support during our Pandas lessons of this bootcamp!
